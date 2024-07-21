@@ -7,6 +7,6 @@
     { "src": "/(.*)", "dest": "app.py" }
   ],
   "env": {
-    "PYTHON_VERSION": "3.10" 
+    "PYTHON_VERSION": "3.12"  // Ensure this is the version you're using
   }
 }
